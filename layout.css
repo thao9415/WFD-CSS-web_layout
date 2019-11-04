@@ -1,0 +1,45 @@
+body {
+    margin: 0;  /*canh lề*/
+}
+#head-logo{
+    background-color: bisque;
+    height: 100px;
+    width: 30%;
+    float: left;
+}
+#head-banner{
+    background-color: white;
+    height: 100px;
+    width: 70%;
+    float: left;
+}
+#head-link{
+    background-color: burlywood;
+    height: 50px;
+    width: 100%;
+    clear: both;
+}
+#left{
+    background-color: pink;
+    height: 500px;
+    width: 20%;
+    float: left;
+}
+#content{
+    background-color: aqua;
+    height: 500px;
+    width: 60%;
+    float: left;
+}
+#right{
+    background-color: papayawhip;
+    height: 500px;
+    width: 20%;
+    float: left;
+}
+#footer{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    clear: both;
+}
